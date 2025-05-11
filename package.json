@@ -1,0 +1,34 @@
+{
+  "name": "musikus",
+  "version": "1.0.0",
+  "description": "Discord music bot with personalized playlists",
+  "main": "musikus.js",
+  "scripts": {
+    "start": "node musikus.js",
+    "dev": "nodemon musikus.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "music",
+    "playlist"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "0.10.0",
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.3.1",
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "fs-extra": "^11.3.0",
+    "libsodium-wrappers": "^0.7.11",
+    "node-fetch": "^3.3.2",
+    "play-dl": "^1.9.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
