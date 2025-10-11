@@ -53,21 +53,9 @@ cd musikus
 npm install
 ```
 
-#### 3. Setup FFmpeg
 
-Download FFmpeg and place the files as follows:
-```
-musikus/
-├── ffmpeg/
-│   └── bin/
-│       ├── ffmpeg.exe
-│       └── ffprobe.exe
-```
 
-**Windows**: [FFmpeg Download](https://www.gyan.dev/ffmpeg/builds/)  
-**Linux/Mac**: Install FFmpeg via your package manager and adjust paths in `main.js`
-
-#### 4. Configure Environment Variables
+#### 3. Configure Environment Variables
 
 Create a `.env` file in the project directory:
 
@@ -82,7 +70,7 @@ CLIENT_ID=your_client_id
 - **CLIENT_ID**: Discord Developer Portal → Your Application → Application ID
 - **SERVER_ID**: Right-click on your server in Discord → Copy Server ID (Developer Mode must be enabled)
 
-#### 5. Start Bot
+#### 4. Start Bot
 
 ```bash
 node main.js
