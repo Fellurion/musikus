@@ -6,6 +6,15 @@ A self-hosted Discord music bot with high-quality audio support (FLAC, MP3, RAW)
 [![Discord.js](https://img.shields.io/badge/discord.js-14.x-blue.svg)](https://discord.js.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+## 💝 Support the Project
+
+If you find this project useful, consider supporting its development!
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg?logo=paypal)](https://paypal.me/Fellurion)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub-pink.svg?logo=github)](https://github.com/sponsors/Fellurion)
+
+Your support helps maintain and improve Musikus! ❤️
+
 ---
 
 ## 🌐 English
@@ -202,6 +211,12 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 ### ⭐ Support
 
 If you like this project, give it a star on GitHub!
+
+You can also support the development:
+- 💰 [PayPal Donation](https://paypal.me/Fellurion)
+- ☕ [Buy me a coffee](https://paypal.me/Fellurion)
+
+Every contribution helps to keep this project alive and improve it further!
 
 ### ⚠️ Legal Disclaimer
 
@@ -411,6 +426,12 @@ Dieses Projekt steht unter der MIT-Lizenz. Siehe [LICENSE](LICENSE) Datei für D
 ### ⭐ Support
 
 Wenn dir dieses Projekt gefällt, gib ihm einen Stern auf GitHub!
+
+Du kannst die Entwicklung auch unterstützen:
+- 💰 [PayPal Spende](https://paypal.me/Fellurion)
+- ☕ [Kauf mir einen Kaffee](https://paypal.me/Fellurion)
+
+Jeder Beitrag hilft, dieses Projekt am Leben zu erhalten und weiter zu verbessern!
 
 ### ⚠️ Rechtlicher Haftungsausschluss
 
