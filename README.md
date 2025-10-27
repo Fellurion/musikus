@@ -411,16 +411,6 @@ Dieses Projekt steht unter der MIT-Lizenz. Siehe [LICENSE](LICENSE) Datei für D
 - GitHub: [@Fellurion](https://github.com/Fellurion)
 - Repository: [musikus](https://github.com/Fellurion/musikus)
 
-### ⭐ Support
-
-Wenn dir dieses Projekt gefällt, gib ihm einen Stern auf GitHub!
-
-Du kannst die Entwicklung auch unterstützen:
-- 💰 [PayPal Spende](https://paypal.me/Fellurion)
-- ☕ [Kauf mir einen Kaffee](https://paypal.me/Fellurion)
-
-Jeder Beitrag hilft, dieses Projekt am Leben zu erhalten und weiter zu verbessern!
-
 ### ⚠️ Rechtlicher Haftungsausschluss
 
 **WICHTIG**: Dieser Bot ist nur für **private, selbstgehostete Nutzung** gedacht.
